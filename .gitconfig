@@ -1,6 +1,6 @@
 [user]
 	name = Aman Kumar
-	email = imtheaman@proton.me
+	email = ak@gotroo.in
 [color]
 	ui = auto
 [filter "lfs"]
@@ -10,5 +10,6 @@
 	required = true
 [core]
 	autocrlf = input
+	editor = nvim
 [init]
 	defaultBranch = main
